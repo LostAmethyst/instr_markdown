@@ -14,6 +14,8 @@ git config --global user.male
 1. git add file_name
     
     добавляем файл с именем file_name для отслеживания 
+
+    (можно добавить все файлы *git add . или git add -A*)
 2. git commit -m "some message"
 
     добавляем текущие изменения в репозиторий и подписываем их с помощью тега -m 
