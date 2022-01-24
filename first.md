@@ -65,3 +65,11 @@ git checkout master
 
 Переместиться к ветке с именем branch_name:
 >git checkout branch_name 
+
+
+## Объединение/Слияние веток и решение конфликтов
+
+Чтобы слить информацию из ветки branch_name в текущую:
+>git merge branch_name
+ 
+
